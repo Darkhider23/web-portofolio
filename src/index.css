@@ -1,9 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 :root{
-  --x:0%;
+  --x: 0%;
 }
+
 .btn {
   background: linear-gradient(92.23deg,
   #ff56f6 21.43%,
@@ -18,9 +20,10 @@
 
 .btn:hover {
   background: linear-gradient(92.23deg,
-  #3bace2 50.63%,
-    #b936ee 100%,
-    #ff56f6 117.04%);
+  #ff56f6 var(--x),
+  #b936ee 50.63%,
+  #3bace2 100%,
+  #406aff 117.04%);
 }
 
 .gradient,
