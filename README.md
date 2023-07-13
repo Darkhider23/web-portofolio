@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
-You can access it here :[Web portfolio](http://Darkhider23.github.io/web-portofolio)
+You can access it here : [Web portfolio](http://Darkhider23.github.io/web-portofolio)
 
 ## Available Scripts
 
