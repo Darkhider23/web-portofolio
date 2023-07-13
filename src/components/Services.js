@@ -5,12 +5,12 @@ import { fadeIn } from "../variants";
 const services = [
     {
         name: 'UI/UX Design',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ducimus aut repellendus perspiciatis minus! Praesentium, ipsam enim. Natus, reprehenderit voluptatum.',
+        description: 'I have been practicing UI/UX design for a couple of months now, and I am amazed by how vast this field is.What I like most is that at time It does not feel like work, It feels like a weekend break to work on a design',
         link: 'Learn More'
     },
     {
         name: 'Development',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ducimus aut repellendus perspiciatis minus! Praesentium, ipsam enim. Natus, reprehenderit voluptatum.',
+        description: 'For over a year and a half,I have been using React and Node.js for developing and I am happy that the choice I made then sticked with me until now.React and node make a good pair for full stack developers by having the same programming language. They also a rich ecosystem,good community support,superior performance and scalability.',
         link: 'Learn More'
     },
     {
