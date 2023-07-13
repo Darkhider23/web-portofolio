@@ -54,7 +54,7 @@ const Banner = () => {
                             <a href="/#" className="text-gradient btn-link">My Portofolio</a>
                         </motion.div>
                         <motion.div variants={fadeIn('up', 0.7)} initial="hidden" whileInView={'show'} viewport={{ once: false, amount: 0.7 }} className="flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0">
-                            <a href="https://www.instagram.com">
+                            <a href="https://www.instagram.com/alexpwwp/">
                                 <FaInstagram />
                             </a>
                             <a href="https://www.instagram.com">
