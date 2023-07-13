@@ -27,11 +27,12 @@ const Work = () => {
                         <div className="group relative overflow-hidden border-2 border-white/50 rounded-x1">
 
                             <div className="group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
-
-                            <img
+                        <a href="http://Darkhider23.github.io/login-form-galssmorphism">
+                        <img
                                 className="group-hover:scale-125 transition-all duration-500 mix-blend-lighten"
                                 src={website1}
                                 alt="" />
+                        </a>
 
                             <div className="absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50">
 
@@ -53,12 +54,12 @@ const Work = () => {
                         <div className="group relative overflow-hidden border-2 border-white/50 rounded-x1">
 
                             <div className="group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
-
+                            <a href="http://Darkhider23.github.io/wave-effect-css">
                             <img
                                 className="group-hover:scale-125 transition-all duration-500 mix-blend-lighten"
                                 src={website2}
                                 alt="" />
-
+                            </a>
                             <div className="absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50">
 
                                 <span className="text-gradient">HTML/CSS</span>
@@ -71,11 +72,12 @@ const Work = () => {
                         <div className="group relative overflow-hidden border-2 border-white/50 rounded-x1">
 
                             <div className="group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
-
+                            <a href="http://Darkhider23.github.io/React-Weather-App">
                             <img
                                 className="group-hover:scale-125 transition-all duration-500 mix-blend-lighten"
                                 src={website3}
                                 alt="" />
+                            </a>
 
                             <div className="absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50">
 
